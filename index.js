@@ -1,3 +1,13 @@
+console.log('This Multi-device Login Project is created by Developer Shizo The Techie')
+
+console.log('Follow on Instagram @shizo_the_techie')
+
+console.log('Dont Forget to Star my repository')
+
+console.log('Made with Love by Shizo')
+
+console.log('Starting....')
+
 const makeWASocket = require("@adiwajshing/baileys").default
 const qrcode = require("qrcode-terminal")
 const { delay , useSingleFileAuthState } = require("@adiwajshing/baileys")
