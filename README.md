@@ -2,7 +2,7 @@
   <body>
     
 <h3> Made with ❤️ by Shizo The Techie </h3>
-    
+    <img src="https://img.shields.io/github/stars/Shizothetechie/md-login?style=social"> 
 <h5>Features </h5> 
 <li> No Encryption </li>
 <li> Multi-device Login Credentials </li>
