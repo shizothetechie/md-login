@@ -14,8 +14,8 @@
  WhatsApp [![Contact on WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919172389527) 
 **BOTS ARE NOT ALLOWED**
 
-## Instagram 
-WhatsApp [![Contact on WhatsApp](https://img.shields.io/badge/Instagram-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919172389527) 
+Instagram 
+[![Contactp](tyle=for-the-badge&lhttps://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://Instagram.com/shizo_the_techie) 
 
 **BOTS ARE NOT ALLOWED**
 
