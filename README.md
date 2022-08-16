@@ -1,10 +1,10 @@
 ## Baileys-MD Login 
 
-## Contact on WhatsApp 
-[![Contact on WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919172389527) 
+## Contact Me
+## WhatsApp [![Contact on WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919172389527) 
 **BOTS ARE NOT ALLOWED**
 
-
+## Instagram 
 
 ## Installation 
 
