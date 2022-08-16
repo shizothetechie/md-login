@@ -1,0 +1,63 @@
+Arguments: 
+  /data/data/com.termux/files/usr/bin/node /data/data/com.termux/files/usr/share/yarn/bin/yarn.js
+
+PATH: 
+  /data/data/com.termux/files/usr/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.4.0
+
+Platform: 
+  android arm
+
+Trace: 
+  Error: EPERM: operation not permitted, symlink '../../../../pino/bin.js' -> '/storage/emulated/0/md-login/node_modules/@adiwajshing/baileys/node_modules/.bin/pino'
+
+npm manifest: 
+  {
+    "name": "md-login",
+    "version": "1.0.0",
+    "description": "Get Qr Code Baileys Multi Device",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Shizothetechie/md-login.git"
+    },
+    "keywords": [
+      "sang-md",
+      "termux-whatsapp-bot",
+      "whatsapp-bot",
+      "whatsapp",
+      "js-whatsapp",
+      "adiwajshing/baileys",
+      "baileys-md",
+      "multi-device",
+      "md",
+      "bot",
+      "scanner",
+      "wabot"
+    ],
+    "author": "Shizo The Techie",
+    "license": "GPL-3.0 License",
+    "bugs": {
+      "url": "https://github.com/Shizothetechie/md-login/issues"
+    },
+    "homepage": "https://github.com/Shizothetechie/md-login#readme",
+    "dependencies": {
+      "@adiwajshing/baileys": "latest",
+      "qrcode-terminal": "^0.12.0"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
