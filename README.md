@@ -17,7 +17,7 @@
 Instagram 
 [![Contact](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://Instagram.com/shizo_the_techie) 
 
-**BOTS ARE NOT ALLOWED**
+
 
 ## Installation 
 
